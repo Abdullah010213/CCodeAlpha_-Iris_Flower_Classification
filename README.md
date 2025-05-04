@@ -3,7 +3,7 @@
 A machine learning model to classify iris flowers into three species based on their sepal and petal measurements.
 
 ![Decision Tree Visualization](https://www.researchgate.net/profile/Mohamed-Mahmoud-135/publication/352360235/figure/fig3/AS:1040430433787904@1625294720833/Example-of-a-decision-tree-classifier-for-the-Iris-dataset.ppm)  
-*Example Decision Tree Visualization*
+
 
 ## Table of Contents
 - [Project Description](#project-description)
